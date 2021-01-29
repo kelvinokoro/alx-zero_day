@@ -1,0 +1,1 @@
+`This is project Ubuntu. A project to create 0x00-vagrant and file 0-hello_ubuntu`
